@@ -1,0 +1,12 @@
+{
+  "name": "pro-qr-scanner",
+  "version": "1.0.0",
+  "description": "Professional QR Code Scanner & Generator",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["qr", "scanner", "generator", "professional"],
+  "author": "QR Scanner Pro",
+  "license": "MIT"
+}
